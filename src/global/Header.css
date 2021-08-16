@@ -1,0 +1,10 @@
+header {
+  position: relative;
+}
+
+.login__btn {
+  /* background-color: red; */
+  position: absolute;
+  top: 0;
+  right: 20px;
+}
